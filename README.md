@@ -41,7 +41,7 @@ npm install eslint-config-common eslint-config-common-jsx eslint-plugin-promise 
 
 Then, add this to your .eslintrc file:
 
-```
+```json
 {
   "extends": ["common", "common-jsx"]
 }
