@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-common-jsx",
   "description": "Common JavaScript coding Style JSX support - ESLint Shareable Config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "author": {
@@ -20,13 +20,13 @@
     "test": "tape test/*.js"
   },
   "devDependencies": {
-    "eslint": "^3.0.1",
-    "eslint-plugin-react": ">=2.7.1",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": ">=7.7.0",
     "tape": "^4.0.0"
   },
   "peerDependencies": {
-    "eslint": ">=2.0.0",
-    "eslint-plugin-react": ">=2.7.1"
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": ">=7.7.0"
   },
   "keywords": [
     "JavaScript Common Style",
